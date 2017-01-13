@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: January 13, 2017 
+
+**Today's Progress**: Set up the skeleton for the first of several Django projects
+
+**Thoughts:** While I hope to do something more novel down the road, this is a good first step (at least keeping me coding and digging in on different django projects)
+
+**Link to work:** DjangoPlaysTheBlues: https://github.com/minedamnesia/djangoPlaysTheBlues
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +35,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
