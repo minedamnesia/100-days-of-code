@@ -1,23 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 13, 2017 
+### Day 1: September 7, 2017 
 
-**Today's Progress**: Set up the skeleton for the first of several Django projects
+**Today's Progress**: Restarting this 100 days of code exercise. Spent an hour on a Django REST tutorial. 
 
-**Thoughts:** While I hope to do something more novel down the road, this is a good first step (at least keeping me coding and digging in on different django projects)
+**Thoughts:** I scrapped this the next day, but it was a good way to try and kickstart my brain a little.
 
-**Link to work:** DjangoPlaysTheBlues: https://github.com/minedamnesia/djangoPlaysTheBlues
+**Link to work:** None - deleted
 
-<!-- ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 2: September 8, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
+<!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
